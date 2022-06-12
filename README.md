@@ -1,3 +1,3 @@
-# ltfjx.github.io  
+# RLt  
 个人博客：[ltfjx.uof.edu.kg](https://ltfjx.uof.edu.kg)  
 UOF: [uof.edu.kg](https://uof.edu.kg)
